@@ -517,9 +517,9 @@ body {
 }
 
 .submit-btn:hover {
-  background: #4338ca;
+  background: #9b9ba0;
   transform: translateY(-2px);
-  box-shadow: 0 10px 30px rgba(79, 70, 229, 0.3);
+  box-shadow: 0 10px 30px rgba(203, 203, 206, 0.3);
 }
 
 .submit-btn:active {
