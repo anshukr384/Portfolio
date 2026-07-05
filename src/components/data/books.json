@@ -1,6 +1,12 @@
 {
-  "totalRead": 25,
+  "totalRead": 26,
   "books": [
+    {
+      "id": "Courage to be Disliked",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1545421684i/43306206.jpg",
+      "link": "https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked",
+      "status": "reading"
+    },
     {
       "id": "King of Sloth",
       "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1701973993i/75491526.jpg",
@@ -101,12 +107,6 @@
       "id": "The Hidden Hindu",
       "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1667241135i/55751155.jpg",
       "link": "https://www.goodreads.com/book/show/55751155-the-hidden-hindu",
-      "status": "read"
-    },
-    {
-      "id": "After the quake",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqknl8EMmO1bo0ne1pe5WqaFVSbMuhOLYU4dWy1Mhm2Av4zaNl1duxmGVC-nHYrbPublC9l0qImmWsjJswksGiPLhQK4pmKhAGvu8Cxn_r&s=10",
-      "link": "https://www.goodreads.com/book/show/17803.After_Dark",
       "status": "read"
     },
     {
